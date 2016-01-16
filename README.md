@@ -1,2 +1,2 @@
 # homework
-GA Data Science homework
+<strong>GA</strong> `Data Science` homework repo
